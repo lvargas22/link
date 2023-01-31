@@ -6,11 +6,14 @@
     <title>link bar</title>
     <style>
     ol{
-    color:blue
+    color:red
     }
     .red{
     color:green
     }
+    body{
+      background-color: rgba(255, 255, 255, .5)
+      }
     
     </style>
   </head>
@@ -25,7 +28,7 @@
     <li><a href="https://lvargas22.github.io/psuedo/">link 5</a></li>
     <li><a href="https://lvargas22.github.io/cba2.0/">link 6</a></li>
     <li><a href="https://lvargas22.github.io/redo3/">link 7</a></li>
-  <a href="">link 8</a>
+    <li><a href="">link 8</a><li>
   </ol>
   </body>
 </html>
