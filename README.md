@@ -5,23 +5,27 @@
     <meta charset="utf-8">
     <title>link bar</title>
     <style>
-    nav{
+    ol{
     color:blue
     }
+    .red{
+    color:green
+    }
+    
     </style>
   </head>
   <body>
   <section>
   </section>
-  <nav>
-  <a href="https://lvargas22.github.io/webpage/">link 1</a>
-  <a href="https://lvargas22.github.io/U.S-Constitution/">link 2</a>
-  <a href="https://lvargas22.github.io/text5/">link 3</a>
-  <a href="https://lvargas22.github.io/selector/">link 4</a>
-  <a href="https://lvargas22.github.io/psuedo/">link 5</a>
-  <a href="https://lvargas22.github.io/cba2.0/">link 6</a>
-  <a href="https://lvargas22.github.io/redo3/">link 7</a>
+  <ol>
+    <li class="red"><a href="https://lvargas22.github.io/webpage/">link 1</a></li>
+    <li id="target" ><a  href="https://lvargas22.github.io/U.S-Constitution/">link 2</a></li>
+    <li><a href="https://lvargas22.github.io/text5/">link 3</a></li>
+    <li><a href="https://lvargas22.github.io/selector/">link 4</a><li>
+    <li><a href="https://lvargas22.github.io/psuedo/">link 5</a></li>
+    <li><a href="https://lvargas22.github.io/cba2.0/">link 6</a></li>
+    <li><a href="https://lvargas22.github.io/redo3/">link 7</a></li>
   <a href="">link 8</a>
-  </nav>
+  </ol>
   </body>
 </html>
