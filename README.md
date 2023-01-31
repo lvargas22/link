@@ -5,16 +5,18 @@
     <meta charset="utf-8">
     <title>link bar</title>
     <style>
-    
+    hover{
+      
+      }
       ol{
     color:red
     }
     .red{
     color:green
     }
-    body{
-      background-color: rgba(255, 255, 255, .5)
-      }
+    body {
+background-color: rgba(255, 92, 53, 0.75);
+}
     
     </style>
   </head>
